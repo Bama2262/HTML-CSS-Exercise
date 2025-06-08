@@ -1,2 +1,2 @@
 # HTML-CSS-Exercise
-This repository contains a collection of basic HTML and CSS exercises that I worked on as part of the process of learning web development. The main purpose of these exercises is to understand the structure of HTML, the use of semantic tags, and styling techniques with CSS, including layout, color, and typography.
+HTML CSS Exercise contains a collection of basic HTML and CSS exercises that I worked on as part of the process of learning web development. The main purpose of these exercises is to understand the structure of HTML, the use of semantic tags, and styling techniques with CSS, including layout, color, and typography.
