@@ -1,2 +1,73 @@
-# HTML-CSS-Exercise
-HTML CSS Exercise contains a collection of basic HTML and CSS exercises that I worked on as part of the process of learning web development. The main purpose of these exercises is to understand the structure of HTML, the use of semantic tags, and styling techniques with CSS, including layout, color, and typography.
+# 🌐 HTML & CSS Exercise
+
+This repository contains a collection of exercises and practice projects focused on learning and improving HTML and CSS skills. It’s designed as a personal learning archive based on what I’ve learned through classes, tutorials, or self-study.
+
+---
+
+## 📘 About
+
+- Hands-on practice with **HTML** and **CSS**
+- Focused on layout, structure, and styling
+- Files organized by topic, lesson, or exercise
+
+---
+
+## 📁 Structure
+
+Each folder or file represents a specific exercise or concept, such as:
+
+- /01-basic-tags
+- /02-text-formatting
+- /03-box-model
+- /04-flexbox-layout
+- /05-grid-layout
+
+> File naming and structure may evolve as more exercises are added.
+
+---
+
+## 💡 Topics Covered
+
+- HTML Elements & Semantic Tags
+- CSS Selectors & Properties
+- Box Model
+- Colors, Fonts, and Text Styling
+- Positioning & Display
+- Flexbox & CSS Grid
+- Responsive Design (soon)
+- Simple UI Layouts and Components
+
+---
+
+## 🛠️ How to Use
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/Bama2262/HTML-CSS-Exercise.git
+   cd HTML-CSS-Exercise
+
+2. **Open any .html file in your browser to view the result.**
+
+3. **Use a code editor (e.g. VS Code) to explore or modify the code.**
+
+---
+
+## 🎯 Purpose
+
+- Practice and reinforce HTML/CSS fundamentals
+- Build a strong visual and structural understanding of web layout
+- Prepare for more advanced topics like JavaScript and frontend frameworks
+
+---
+
+## 🙌 Contributions
+
+This is a personal learning project, but feel free to suggest improvements or share feedback through issues or pull requests.
+
+---
+
+## 📌 Notes
+
+- No JavaScript involved — this repo focuses only on HTML and CSS
+- All examples are built using vanilla HTML/CSS, no external frameworks
