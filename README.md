@@ -12,20 +12,6 @@ This repository contains a collection of exercises and practice projects focused
 
 ---
 
-## 📁 Structure
-
-Each folder or file represents a specific exercise or concept, such as:
-
-- /01-basic-tags
-- /02-text-formatting
-- /03-box-model
-- /04-flexbox-layout
-- /05-grid-layout
-
-> File naming and structure may evolve as more exercises are added.
-
----
-
 ## 💡 Topics Covered
 
 - HTML Elements & Semantic Tags
@@ -44,7 +30,7 @@ Each folder or file represents a specific exercise or concept, such as:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Bama2262/HTML-CSS-Exercise.git
+   git clone https://github.com/Rukadevata/HTML-CSS-Exercise.git
    cd HTML-CSS-Exercise
 
 2. **Open any .html file in your browser to view the result.**
